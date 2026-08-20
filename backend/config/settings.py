@@ -37,10 +37,9 @@ allowed_hosts = os.getenv(
 )
 
 ALLOWED_HOSTS = [
-    host.strip()
-    for host in allowed_hosts.split(",")
-    if host.strip()
+     "restaurant-operations-analytics.onrender.com",
 ]
+
 
 
 # ---------------------------------------------------------
