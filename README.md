@@ -687,7 +687,7 @@ CognoDB Cloud
 
 Project walkthrough:
 
-[Watch the project screen recording](docs/screen-recordings/project-demo.mp4)
+[Watch the project screen recording](docs/screenrecordings/project-demo.mp4)
 
 ---
 
