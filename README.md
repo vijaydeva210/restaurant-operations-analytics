@@ -674,11 +674,12 @@ CognoDB Cloud
 
 ### Analytics Dashboard
 
-![Analytics Charts](docs/screenshots/analytics-charts.png)
+![Analytics Charts](docs/screenshots/order-status.png)
 
 ### Graph Query Results
 
-![Graph Query Results](docs/screenshots/graph-query-results.png)
+![Graph Query Results](docs/screenshots/customer-feedback.png)
+
 
 ---
 
